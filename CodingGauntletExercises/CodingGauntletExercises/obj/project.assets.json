@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Work\\Coding Gauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\CodingGauntletExercises.csproj",
+      "projectUniqueName": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Home\\GitHub\\CodingGauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\CodingGauntletExercises.csproj",
       "projectName": "CodingGauntletExercises",
-      "projectPath": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Work\\Coding Gauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\CodingGauntletExercises.csproj",
+      "projectPath": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Home\\GitHub\\CodingGauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\CodingGauntletExercises.csproj",
       "packagesPath": "C:\\Users\\Michaylias$la\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Work\\Coding Gauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\obj\\",
+      "outputPath": "C:\\Users\\michaylia.stephenson\\OneDrive - Zenith OpCo Limited\\Documents\\Progamming C#\\Home\\GitHub\\CodingGauntlet\\CodingGauntletExercises\\CodingGauntletExercises\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
