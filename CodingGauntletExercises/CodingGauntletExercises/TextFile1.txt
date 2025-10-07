@@ -1,0 +1,7 @@
+﻿Task 1:
+Using Visual Studio, create a brand-new console app which has a class written in C# that represents a Bank Account.
+Create 3 instances of this Bank Account class, each with different information stored for:
+Name
+Balance
+Email
+Once created, loop through and display the details of all 3 in the console window. The console app should build successfully and run locally. 

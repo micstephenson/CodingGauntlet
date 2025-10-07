@@ -1,0 +1,14 @@
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\bin\Debug\net8.0\CodingGauntletExercises.exe
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\bin\Debug\net8.0\CodingGauntletExercises.deps.json
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\bin\Debug\net8.0\CodingGauntletExercises.runtimeconfig.json
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\bin\Debug\net8.0\CodingGauntletExercises.dll
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\bin\Debug\net8.0\CodingGauntletExercises.pdb
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.AssemblyInfoInputs.cache
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.AssemblyInfo.cs
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.csproj.CoreCompileInputs.cache
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.dll
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\refint\CodingGauntletExercises.dll
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.pdb
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\CodingGauntletExercises.genruntimeconfig.cache
+C:\Users\michaylia.stephenson\OneDrive - Zenith OpCo Limited\Documents\Progamming C#\Work\Coding Gauntlet\CodingGauntletExercises\CodingGauntletExercises\obj\Debug\net8.0\ref\CodingGauntletExercises.dll

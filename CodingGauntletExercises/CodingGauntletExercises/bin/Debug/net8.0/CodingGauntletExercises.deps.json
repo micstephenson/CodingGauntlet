@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CodingGauntletExercises/1.0.0": {
+        "runtime": {
+          "CodingGauntletExercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingGauntletExercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
